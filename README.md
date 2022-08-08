@@ -23,6 +23,11 @@ Click the 'fork' button (in the top right), make your additions in your 'own ver
 
 ---
 
+### Bitcoin -
+The first and most valuable cryptocurrency, launched on Jan. 3, 2009. While its value has climbed steadily since then, it has seen wild fluctuations. In the past months alone, the price of Bitcoin has fluctuated from a record high of $60,000 to below $30,000.
 
 ### Blockchain -
 A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
+
+### Smart Contract -
+An algorithmic program that enacts the terms of a contract automatically based on its code. One of the main value propositions of the Ethereum network is its ability to execute smart contracts. 
