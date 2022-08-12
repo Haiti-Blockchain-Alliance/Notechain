@@ -71,3 +71,13 @@ This type of blockchain is a private property that sets controls for selected in
 
 - Consortium or Federated Blockchain
 As the name suggests, it is closely controlled by the selected members of the Consortium. Additionally, they have the rights to read, write and audit the Blockchain.
+
+### What are the components of the Blockchain Ecosystem?
+The blockchain ecosystem has the following major components:
+- Node Application
+- System management
+- Shared Ledger
+- Smart contract
+- Consensus Algorithm
+- Peer network
+- Virtual Machine
