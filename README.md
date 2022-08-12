@@ -23,6 +23,16 @@ Click the 'fork' button (in the top right), make your additions in your 'own ver
 
 ---
 
+
+### Bitcoin -
+The first and most valuable cryptocurrency, launched on Jan. 3, 2009. While its value has climbed steadily since then, it has seen wild fluctuations. In the past months alone, the price of Bitcoin has fluctuated from a record high of $60,000 to below $30,000.
+
+### Blockchain -
+A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
+
+### Smart Contract -
+An algorithmic program that enacts the terms of a contract automatically based on its code. One of the main value propositions of the Ethereum network is its ability to execute smart contracts. 
+
 ### What do you mean by blockchain technology? 
 With the distributed peer-to-peer network, blockchain works as a distributed and immutable ledger that makes hacking the platform impossible. In other words, it is the most secure technology to record transactions and assets that can be intangible and tangible. In addition to this, technology is dominating various industries such as finance, healthcare, the internet of things, etc
 
@@ -61,14 +71,3 @@ This type of blockchain is a private property that sets controls for selected in
 
 - Consortium or Federated Blockchain
 As the name suggests, it is closely controlled by the selected members of the Consortium. Additionally, they have the rights to read, write and audit the Blockchain.
-
-
-### Bitcoin -
-The first and most valuable cryptocurrency, launched on Jan. 3, 2009. While its value has climbed steadily since then, it has seen wild fluctuations. In the past months alone, the price of Bitcoin has fluctuated from a record high of $60,000 to below $30,000.
-
-### Blockchain -
-A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
-
-### Smart Contract -
-An algorithmic program that enacts the terms of a contract automatically based on its code. One of the main value propositions of the Ethereum network is its ability to execute smart contracts. 
-
