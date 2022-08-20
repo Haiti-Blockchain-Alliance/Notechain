@@ -81,3 +81,13 @@ The blockchain ecosystem has the following major components:
 - Consensus Algorithm
 - Peer network
 - Virtual Machine
+
+### Coin
+A coin is the native asset of a specific Blockchain.Examples: BTC, ETH, SOL, ADA etc...
+
+### Token
+A token is an asset minted by a smart contract.
+
+### Layer 1
+It's the base level of a blockchain network, a propotocol that can handle transactions and host smart contracts and Dapps without the need of another network. Examples: Solana, Binance Smart Chain, Cardano.
+
